@@ -44,6 +44,7 @@
 
 .header__address {
   justify-self: end;
+  margin-right: 20px;
 }
 
 .address {
@@ -131,6 +132,7 @@
   font-size: 22px;
   padding: 12px 32px;
   border: 1px solid #fff;
+  font-family: Raleway, sans-serif; 
 
   background: transparent;
   color: #fff;
@@ -197,6 +199,7 @@
 
 .card__title {
   font-size: 22px;
+  font-weight: 700;
   text-transform: uppercase;
   text-decoration: underline;
   margin: 0;
@@ -294,13 +297,4 @@
 .footer__social-icon {
   display: block;
   width: 48px;
-}
-
-h3 {
-  font-size: 22px;
-}
-
-h4 {
-  font-weight: 400;
-  font-size: 20px;
 }
